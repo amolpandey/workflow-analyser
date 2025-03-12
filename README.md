@@ -12,7 +12,7 @@ In the below, also highlight the fact that using addtional tools like [cron-desc
 **Job Cluster**
 
 In the below one can switch multiple cluster related properties from the top right hand drop-down configured for the jos and get insights all in one view.
-![Job Cluster](img\PBIDesktop_WC8U1wum4E.png)
+![Job Cluster](img/PBIDesktop_WC8U1wum4E.png)
 
 **Job Task**
 
