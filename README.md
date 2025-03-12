@@ -7,6 +7,7 @@ The key highlights of this project are:
 **Job Overview**
 
 In the below, also highlight the fact that using addtional tools like [cron-descriptor](https://pypi.org/project/cron-descriptor/) we can enrich the quartz expression to human redable expression for reporting purposes.
+
 ![Job Overview](img/PBIDesktop_pePfewuo7f.png)
 
 **Job Cluster**
@@ -27,7 +28,8 @@ In the below the user can view the collated job previous run history and state, 
 ![Job History](img/PBIDesktop_VSJ8wK3gKs.png)
 
 **Run Summary**
-In the below the report suggest the overall run status stats for the jobs ranging 2 mmonths (60 days) which is the defualt run archive data configured in databricks. 
+
+In the below the report suggest the overall run status stats for the jobs ranging 2 months (60 days) which is the defualt run archive data configured in databricks. 
 
 ![Run Summary](img/PBIDesktop_g0tCMoKdwR.png)
 
